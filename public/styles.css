@@ -1,0 +1,42 @@
+* {
+    font-family: 'Roboto', sans-serif; 
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 6px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-top: 3px black solid;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+a:hover {
+    background-color: wheat;
+    padding: 5px;
+}
+
+h2 {
+    background-color: wheat;
+}
+
+h3 {
+    border-bottom: 3px black solid;
+}
+p {
+    font-size: 18px;
+}
+
